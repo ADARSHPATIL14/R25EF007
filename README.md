@@ -7,4 +7,5 @@ Hello! My name is **Adarsh Patil**, and I am a **B.Tech Computer Science and Eng
 
 ° Interested in **software development, data structures and algorithms, and emerging technologies**.
 
+°Goal: To become a skilled software developer and build impactful real-world projects.
 
