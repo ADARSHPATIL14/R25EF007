@@ -9,3 +9,6 @@ Hello! My name is **Adarsh Patil**, and I am a **B.Tech Computer Science and Eng
 
 °Goal: To become a skilled software developer and build impactful real-world projects.
 
+## Projects
+
+I am currently working on academic and personal projects to improve my programming and problem-solving skills. I plan to build more practical projects as I continue learning.
